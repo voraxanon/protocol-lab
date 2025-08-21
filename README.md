@@ -1,4 +1,8 @@
-﻿# Satoshi 2.0 — Protocol Lab
+﻿<p align="center">
+  <a href="DONATE.md"><img alt="Donate" src="https://img.shields.io/badge/Donate-Bitcoin-orange?style=flat-square"></a>
+  <a href="bitcoin:bc1qpyukknh3zqdpwqv7dwn5dqxysc8kt8fsqu80xv"><img alt="Open in wallet" src="https://img.shields.io/badge/Open_in_wallet-bc1q...-black?style=flat-square"></a>
+</p>
+# Satoshi 2.0 — Protocol Lab
 
 O **Protocol Lab** é o espaço de experimentação do Satoshi 2.0.
 Aqui testamos, quebramos e reconstruímos protocolos para que a comunidade aprenda junto.
@@ -20,3 +24,6 @@ Aqui testamos, quebramos e reconstruímos protocolos para que a comunidade apren
 
 ## Licença
 Docs: CC BY 4.0 · Código: MIT
+
+
+👉 See [DONATE.md](DONATE.md)
